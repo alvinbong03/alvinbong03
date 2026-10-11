@@ -1,29 +1,78 @@
-# Hi 👋, I'm alvinbong03
+# Hi there, I'm Alvin Bong 👋
 
-### AI & CS student passionate in software developing, looking for jobs
+I'm an **AI & Computer Science student at the University of Edinburgh**, with a focus on **machine learning, neural networks and software development**. Expected graduation: 2027.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alvinbong03&label=Profile views&color=0e75b6&style=flat" alt="alvinbong03" /> </p>
+I'm curious about what a model learns, how to evaluate it, and how to turn an experiment into usable software. My projects range from exploring battery materials through computer vision to bringing digital chips to a poker game played around a real table.
 
-- 🔭 I'm currently working on **Interactive digital poker chips to replace physical poker chips while maintaining interactiveness, and upcoming research on game theory (finding repeated strategies)**
+I'm keen to explore beyond those areas, too. Outside tech, my interests are travelling, food and games.
 
-- 👯 I'm looking to collaborate on **startup positions, software engineering/cybersecurity internships, paid research, freelance positions.**
+## 🛠️ Tech Stack & Tools
 
-- 🤝 I'm looking for help with **real-world software development experience in a startup/corporate environment**
+Tools and methods used across my projects:
 
-- 💬 Ask me about **React, web development, software engineering, foods and games!**
+**Machine Learning & Computer Vision**
 
-- 📫 How to reach me **alvinb03@gmail.com**
-
-- ⚡ Fun fact **I can't stop travelling**
-
-- 📄 Know about my experiences **[https://docs.google.com/document/d/1Q6w0sMwe0XVeu4DH1oJQiJpt3rslyU01Ufmz0hcCLS8/edit?usp=sharing](https://docs.google.com/document/d/1Q6w0sMwe0XVeu4DH1oJQiJpt3rslyU01Ufmz0hcCLS8/edit?usp=sharing)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/alvinbong03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="alvinbong03" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alvin-bong/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alvin-bong/" height="30" width="40" /></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" title="pandas" width="40" height="40" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/canvasjs" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/grafana" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/haskell" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=haskell" alt="haskell" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuepress" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuepress" width="40" height="40"/> </a></p>
+- **Language & data:** Python, NumPy, pandas
+- **Models & evaluation:** pretrained DINOv2 image features, logistic regression, PCA, cross-validation and permutation testing
+- **GPU computing:** Modal with NVIDIA L4 GPUs for feature extraction
 
+**Software & Interfaces**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" width="40" height="40" />
+</p>
+
+- **Languages:** TypeScript, Java
+- **Frontend:** React, Vite
+- **Backend & communication:** Node.js, REST APIs, WebSockets
+
+**Infrastructure & Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" title="Cloudflare" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=vitest" alt="Vitest" title="Vitest" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright" width="40" height="40" />
+</p>
+
+- **Cloud:** Cloudflare Workers and Durable Objects
+- **Development:** Git, Docker
+- **Testing:** Vitest, Playwright
+
+## 🔬 Projects I'm Proud Of
+
+### Cottrell — a closer look at battery materials
+
+A team hackathon project combining microscopy measurements with pretrained vision-transformer features to explore electrode materials. With only 31 images, careful evaluation is central: fold-local preprocessing, image-level validation and permutation tests help assess what the data can support.
+
+[Explore the code & methodology](https://github.com/Cottrell-LockedIn/AIxScience)
+
+### MEJA52 — physical cards, digital chips
+
+A digital poker-chip table for friends playing in person. The cards stay physical; bets, balances and pots move to your phone. Behind the interface are real-time state synchronisation, server-side betting rules and conflicting player actions to handle.
+
+In development, built on the MIT-licensed Piss Poker project.
+
+[Explore the code & project notes](https://github.com/alvinbong03/meja52)
+
+## 🌱 What I'd Like to Explore
+
+More work with neural networks and computer vision, deeper experience in ML experimentation, and opportunities to build software alongside researchers and engineers.
+
+## 📫 Let's Connect
+
+I'm open to **research opportunities, professional internships and graduate roles**, especially in ML/AI and software development. I'm also happy to hear about opportunities in other areas of tech.
+
+- **Email:** [alvinb03@gmail.com](mailto:alvinb03@gmail.com)
+- **LinkedIn:** [Alvin Bong](https://www.linkedin.com/in/alvin-bong/)
