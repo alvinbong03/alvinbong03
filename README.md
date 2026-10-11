@@ -1,6 +1,6 @@
 # Hi there, I'm Alvin Bong 👋
 
-I'm an **AI & Computer Science student at the University of Edinburgh**, with a focus on **machine learning, neural networks and software development**. Expected graduation: 2027.
+I'm an **AI & Computer Science student at the University of Edinburgh**, with a focus on **machine learning, neural networks and software development**. 
 
 I'm curious about what a model learns, how to evaluate it, and how to turn an experiment into usable software. My projects range from exploring battery materials through computer vision to bringing digital chips to a poker game played around a real table.
 
